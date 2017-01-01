@@ -4,7 +4,7 @@ namespace Saxulum\Console\Silex\Provider;
 
 use Saxulum\Console\Provider\ConsoleProvider as BaseConsoleProvider;
 use Silex\Application;
-use Silex\ServiceProviderInterface;
+use Pimple\ServiceProviderInterface;
 
 class ConsoleProvider implements ServiceProviderInterface
 {
