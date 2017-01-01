@@ -1,5 +1,5 @@
 {
-    "name": "saxulum/saxulum-console",
+    "name": "unitedt/saxulum-console",
     "description": "Saxulum Console Provider",
     "keywords": ["saxulum", "pimple", "cilex", "silex", "console"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.3.3,<8.0",
-        "pimple/pimple": "~1.0",
+        "pimple/pimple": ">=1.0",
         "saxulum/saxulum-classfinder": "~1.1,>=1.1.1",
         "symfony/console": "~2.3|~3.0",
         "symfony/finder": "~2.3|~3.0"
